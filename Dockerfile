@@ -1,4 +1,5 @@
 # Comments are great!
+# The more the better!
 FROM ubuntu:12.04
 
 # Install dependencies
