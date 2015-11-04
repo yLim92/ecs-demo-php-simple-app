@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Hell f-ing yeah! It's a PHP APP!</h1>
+                <h1>Hell f-ing yeah! It's the best damn PHP App EVER!</h1>
                 <h2>Congratulations</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS. It's also the best!</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
