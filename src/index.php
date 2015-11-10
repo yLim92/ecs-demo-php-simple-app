@@ -16,7 +16,7 @@
         <div class="container">
             <div class="hero-unit">
                 <h1>The best PHP app. Bar none.</h1>
-                <h2>Congratulations! You have the power!</h2>
+                <h2>Congratulations!</h2>
                 <p>Your PHP application is now running on a container in Amazon ECS. Isn't that crazy? It's also the BEST!</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
